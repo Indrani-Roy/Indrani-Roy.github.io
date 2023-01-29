@@ -3,7 +3,7 @@
   "basics": {
     "name": "Indrani Roy",
     "label": "Material Chemist",
-    "image": "images/Profile_pic.jpg",
+    "image": "apple-touch-icon.png",
     "email": "roy.indrani1996@gmail.com",
     "phone": "(773)-766-4005",
     "summary": "Indrani hails from West Bengal, India. She has earned her Master's degree in Chemsitry from Visva-Bharati, West Bengal. After earning her master's degree in CHemistry from Visva-Bharati, India, she has joined Prof. Jordi Cabana's lab at UIC for Ph.D. in Li-ion battery Chemistry. Since her undergraduate days she was higly motivated on exploring the synthesis and characterization of various classes materials.Starting from metal nanoparticles, mesoprous glasses, bio-inorganic chelates, she now started exploring the cathode materials.",
@@ -37,14 +37,13 @@
   },
   "work": [
     {
-      "name": "Pied Piper",
-      "location": "Palo Alto, CA",
-      "description": "Awesome compression company",
-      "position": "CEO/President",
-      "url": "http://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "name": "Argonne National Labortaory",
+      "location": "Chicago, IL",
+      "position": "Research Aide",
+      "url": "https://www.anl.gov/profile/indrani-roy",
+      "startDate": "2022-09-08",
+      "endDate": "Present",
+      "summary": " At ALS, Indrani is working with Prof. Christopher Johnson on developing novel Na-ion batteries cathode materials.",
       "highlights": [
         "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
         "Successfully won Techcrunch Disrupt",
