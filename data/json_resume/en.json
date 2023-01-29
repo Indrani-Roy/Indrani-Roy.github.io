@@ -1,50 +1,37 @@
 {
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
-    "name": "Richard Hendricks",
-    "label": "Programmer",
-    "image": "https://hugo-theme-gruvbox.schnerring.net/richard-hendricks.webp",
-    "email": "richard.hendricks@piedpiper.com",
-    "phone": "(912) 555-4321",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory.",
+    "name": "Indrani Roy",
+    "label": "Material Chemist",
+    "image": "../../images/tn.png",
+    "email": "roy.indrani1996@gmail.com",
+    "phone": "(773)-766-4005",
+    "summary": "Indrani hails from West Bengal, India. She has earned her Master's degree in Chemsitry from Visva-Bharati, West Bengal. After earning her master's degree in CHemistry from Visva-Bharati, India, she has joined Prof. Jordi Cabana's lab at UIC for Ph.D. in Li-ion battery Chemistry. Since her undergraduate days she was higly motivated on exploring the synthesis and characterization of various classes materials.Starting from metal nanoparticles, mesoprous glasses, bio-inorganic chelates, she now started exploring the cathode materials.",
     "location": {
-      "city": "San Francisco"
+      "city": "Chicago"
     },
     "profiles": [
       {
         "network": "GitHub",
-        "username": "hugo-theme-gruvbox",
-        "url": "https://github.com/schnerring/hugo-theme-gruvbox"
+        "username": "Indrani-Roy",
+        "url": "https://github.com/Indrani-Roy"
       },
-      {
-        "network": "GitHub",
-        "username": "hugo-mod-github-readme-stats",
-        "url": "https://github.com/schnerring/hugo-mod-github-readme-stats"
-      },
-      {
-        "network": "GitHub",
-        "username": "hugo-mod-json-resume",
-        "url": "https://github.com/schnerring/hugo-mod-json-resume"
-      },
+
       {
         "network": "Twitter",
-        "url": "https://twitter.com/SiliconHBO"
+        "url": "https://twitter.com/Indranii_Roy"
       },
       {
-        "network": "fandom",
-        "url": "https://silicon-valley.fandom.com/wiki/Richard_Hendricks"
+        "network": "linkedin",
+        "url": "https://www.linkedin.com/in/indrani-roy-37b9ab125"
       },
       {
         "network": "HBO",
-        "url": "https://www.hbo.com/silicon-valley"
+        "url": "https://scholar.google.com/citations?user=807X99AAAAAJ&hl=en"
       },
       {
         "network": "IMDB",
-        "url": "https://www.imdb.com/title/tt2575988/"
-      },
-      {
-        "network": "Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/List_of_Silicon_Valley_characters#Richard_Hendricks"
+        "url": "https://www.researchgate.net/profile/Indrani-Roy-4"
       }
     ]
   },
