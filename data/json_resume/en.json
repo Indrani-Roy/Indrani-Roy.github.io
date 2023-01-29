@@ -37,17 +37,18 @@
   },
   "work": [
     {
-      "name": "Argonne National Labortaory",
+      "name": "Argonne National Labortaory \n",
       "location": "Chicago, IL",
       "position": "Research Aide",
       "url": "https://www.anl.gov/profile/indrani-roy",
       "startDate": "2022-09-08",
-      "endDate": "Present",
+      "endDate": "2024-05-15",
       "summary": " At ALS, Indrani is working with Prof. Christopher Johnson on developing novel Na-ion batteries cathode materials.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Synthesizing and optimizing emerging cathode materials for Na-ion battery via solid state synthesis.",
+        "Characterizing the synthesized material using XRD, SEM, TEM.",
+        "Making coin cells for electrochemical characterization using Macor and Arbin.",
+        "Understanding the chemical bonding using Raman, IR, NMR and XAS spectroscopy."
       ]
     }
   ],
